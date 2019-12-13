@@ -1,7 +1,6 @@
 {
-  "name": "protractor",
+  "name": "protractor-it-steps",
   "description": "Webdriver E2E test wrapper for Angular.",
-  "homepage": "https://github.com/angular/protractor",
   "keywords": [
     "angular",
     "test",
@@ -10,7 +9,7 @@
     "webdriverjs",
     "selenium"
   ],
-  "author": "Julie Ralph <ju.ralph@gmail.com>",
+  "author": "midev247 <midev247@gmail.com>",
   "dependencies": {
     "@types/q": "^0.0.32",
     "@types/selenium-webdriver": "^3.0.0",
@@ -82,5 +81,5 @@
   "engines": {
     "node": ">=6.9.x"
   },
-  "version": "5.4.2"
+  "version": "0.0.1"
 }
